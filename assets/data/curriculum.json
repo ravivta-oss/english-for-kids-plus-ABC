@@ -1,0 +1,8 @@
+{
+  "version": "0.1.0",
+  "worlds": 12,
+  "core_lessons": 84,
+  "audio_policy": "TTS_ONLY_NO_RECORDED_AUDIO",
+  "profiles": 4,
+  "notes": "Canonical lesson definitions currently live in lib/data/app_data.dart; this JSON is reserved for migration to content-driven loading."
+}
